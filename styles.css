@@ -1,0 +1,49 @@
+body {
+  background-color: #f0f0f0; /* Fondo gris */
+  text-align: center;
+  margin: 0;
+  padding: 0;
+}
+
+header {
+  background-color: #3498db; /* Barra de navegación azul */
+  color: white;
+  padding: 10px;
+}
+
+h1 {
+  margin-top: 50px;
+}
+
+counter-component {
+  display: block;
+  margin: 50px auto;
+  text-align: center;
+}
+
+#counter-container {
+  border: 1px solid #ccc;
+  padding: 20px;
+  background-color: white; /* Fondo blanco dentro del contenedor */
+}
+
+button {
+  font-size: 16px;
+  margin: 0 5px;
+  padding: 10px;
+  background-color: #4CAF50;
+  color: white;
+  border: none;
+  border-radius: 5px;
+  cursor: pointer;
+}
+
+button:hover {
+  background-color: #45a049;
+}
+
+footer {
+  background-color: #3498db; /* Barra de navegación azul en el pie de página */
+  color: white;
+  padding: 10px;
+}
